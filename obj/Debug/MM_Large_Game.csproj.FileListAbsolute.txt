@@ -1,0 +1,21 @@
+D:\CS\CS\CS232 (Multimedia)\2ND Time\Project\Large Game\MM_Large_Game\MM_Large_Game\bin\Debug\MM_Large_Game.exe.config
+D:\CS\CS\CS232 (Multimedia)\2ND Time\Project\Large Game\MM_Large_Game\MM_Large_Game\bin\Debug\MM_Large_Game.exe
+D:\CS\CS\CS232 (Multimedia)\2ND Time\Project\Large Game\MM_Large_Game\MM_Large_Game\bin\Debug\MM_Large_Game.pdb
+D:\CS\CS\CS232 (Multimedia)\2ND Time\Project\Large Game\MM_Large_Game\MM_Large_Game\obj\Debug\MM_Large_Game.csproj.AssemblyReference.cache
+D:\CS\CS\CS232 (Multimedia)\2ND Time\Project\Large Game\MM_Large_Game\MM_Large_Game\obj\Debug\MM_Large_Game.Form1.resources
+D:\CS\CS\CS232 (Multimedia)\2ND Time\Project\Large Game\MM_Large_Game\MM_Large_Game\obj\Debug\MM_Large_Game.Properties.Resources.resources
+D:\CS\CS\CS232 (Multimedia)\2ND Time\Project\Large Game\MM_Large_Game\MM_Large_Game\obj\Debug\MM_Large_Game.csproj.GenerateResource.cache
+D:\CS\CS\CS232 (Multimedia)\2ND Time\Project\Large Game\MM_Large_Game\MM_Large_Game\obj\Debug\MM_Large_Game.csproj.CoreCompileInputs.cache
+D:\CS\CS\CS232 (Multimedia)\2ND Time\Project\Large Game\MM_Large_Game\MM_Large_Game\obj\Debug\MM_Large_Game.exe
+D:\CS\CS\CS232 (Multimedia)\2ND Time\Project\Large Game\MM_Large_Game\MM_Large_Game\obj\Debug\MM_Large_Game.pdb
+C:\Users\khira\Desktop\Large Game\MM_Large_Game\MM_Large_Game\bin\Debug\MM_Large_Game.exe.config
+C:\Users\khira\Desktop\Large Game\MM_Large_Game\MM_Large_Game\bin\Debug\MM_Large_Game.exe
+C:\Users\khira\Desktop\Large Game\MM_Large_Game\MM_Large_Game\bin\Debug\MM_Large_Game.pdb
+C:\Users\khira\Desktop\Large Game\MM_Large_Game\MM_Large_Game\obj\Debug\MM_Large_Game.csproj.AssemblyReference.cache
+C:\Users\khira\Desktop\Large Game\MM_Large_Game\MM_Large_Game\obj\Debug\MM_Large_Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\khira\Desktop\Large Game\MM_Large_Game\MM_Large_Game\obj\Debug\MM_Large_Game.Form1.resources
+C:\Users\khira\Desktop\Large Game\MM_Large_Game\MM_Large_Game\obj\Debug\MM_Large_Game.Properties.Resources.resources
+C:\Users\khira\Desktop\Large Game\MM_Large_Game\MM_Large_Game\obj\Debug\MM_Large_Game.csproj.GenerateResource.cache
+C:\Users\khira\Desktop\Large Game\MM_Large_Game\MM_Large_Game\obj\Debug\MM_Large_Game.csproj.CoreCompileInputs.cache
+C:\Users\khira\Desktop\Large Game\MM_Large_Game\MM_Large_Game\obj\Debug\MM_Large_Game.exe
+C:\Users\khira\Desktop\Large Game\MM_Large_Game\MM_Large_Game\obj\Debug\MM_Large_Game.pdb
